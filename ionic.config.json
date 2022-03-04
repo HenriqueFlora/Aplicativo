@@ -1,0 +1,7 @@
+{
+  "name": "AppToDo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
